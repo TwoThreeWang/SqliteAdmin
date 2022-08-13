@@ -5,5 +5,5 @@
   "versions": "1.0",
   "checks": "/www/server/panel/plugin/sqliteadmin",
   "author": "王图思睿",
-  "home": "https://www.wangtwothree.com"
+  "home": "https://github.com/TwoThreeWang/SqliteAdmin"
 }
